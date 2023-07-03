@@ -1,6 +1,6 @@
 # API-Proxy-Server-Node
-> Just a canvas for making a proxy api using nodeJs
-> [Tuto](https://www.youtube.com/watch?v=ZGymN8aFsv4)
+> Just a canvas for making a proxy api using nodeJs.
+> Created following Traversy Media youtube tutorial : [https://www.youtube.com/watch?v=ZGymN8aFsv4](https://www.youtube.com/watch?v=ZGymN8aFsv4)
 
 ## Built With
 
